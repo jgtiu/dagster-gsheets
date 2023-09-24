@@ -1,8 +1,0 @@
-dagster
-dagster-cloud
-pygsheets
-pandas
-
-[dev]
-dagster-webserver
-pytest
